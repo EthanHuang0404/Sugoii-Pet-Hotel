@@ -19,4 +19,15 @@ Figure 2: Pet Care Service
 <img src="https://github.com/EthanHuang0404/Sugoii-Pet-Hotel/assets/52795694/bc278a02-65ee-4b3f-b2a3-fb84b77f9aa1" width="500" height="300"><br>
 Figure 3: Pet Adoption Service
 
+## Functions
+**Member and Administrator Systems**
+* Functions for registering, logging in, modifying, deleting, and querying members (administrators)
+
+**Maintenance System**
+* Reviewing, viewing, and deleting maintenance requests
+
+**Hotel Room Space Management System**
+* Adding, viewing, modifying, and deleting hotel room.
+
+* Pets Matchin and Adoption System
 
