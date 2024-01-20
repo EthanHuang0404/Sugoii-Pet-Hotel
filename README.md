@@ -29,5 +29,6 @@ Figure 3: Pet Adoption Service
 **Hotel Room Space Management System**
 * Adding, viewing, modifying, and deleting hotel room.
 
-* Pets Matchin and Adoption System
-
+**Pets Matchin and Adoption System**
+* Adding, viewing, editing, and removing pet adoption listings.
+* Pet matching functionality.
